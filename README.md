@@ -9,9 +9,13 @@ where,  S = Starting point
         X = grid where the space is blocked and robot cannot be present there
 Eg. 
 4 5
+
 SOOOO
+
 XXOOO
+
 XXOOO
+
 EOOOX
 
 output is given in the format of tuple containing the co-ordinates of path from starting to ending point.
